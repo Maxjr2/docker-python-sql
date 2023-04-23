@@ -1,0 +1,10 @@
+#create a simple devcontainer.json file that starts a docker stach from docker-compose.yml
+{
+    "name": "My Dev Container",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "database",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+        "ms-python.python"
+    ]
+}
