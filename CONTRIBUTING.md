@@ -1,4 +1,4 @@
-#THIS IS A WIP AND JUST A COPY PASTA FROM ANOTHER PROJECT!
+# THIS IS A WIP AND JUST A COPY PASTA FROM ANOTHER PROJECT!
 ## Technical Debt
 Please be sure to consider how heavily your contribution impacts the maintainability of the project long term, sometimes less is more.  We don't want to merge collossal pull requests with hundreds of dependencies by a driveby contributor.
 
